@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.npy
+*.npz
+*.log
+wandb/
+ckpts*/
+checkpoints*/
+outputs*/
+results*/
+data/
+.DS_Store
+.env
